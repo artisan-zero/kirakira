@@ -1,0 +1,30 @@
+{
+  "name": "kirakira",
+  "version": "1.0.0",
+  "description": "киракира",
+  "main": "index.js",
+  "scripts": {
+      "exec" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artisan-zero/kirakira.git"
+  },
+  "keywords": [
+    "киракира",
+    "кира",
+    "kira",
+    "ashura",
+    "reiji",
+    "zero"
+  ],
+  "author": "Artisan Zero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artisan-zero/kirakira/issues"
+  },
+  "homepage": "https://github.com/artisan-zero/kirakira#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
